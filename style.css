@@ -1,15 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 
 body {
-  background: #EEEEF4;
-  color:#999;
+  /*background: #EEEEF4;*/
+  background: #ffd31d;
+  /*color:#999;*/
+  color: #f6eedf;
   font-family:Roboto;
 }
 
 h1 {
     font-weight: 300;
     font-size: 50pt;
-    color: #FF1493;
+    /*color: #FF1493;*/
+    color: #d63447;
 }
 
 p {
