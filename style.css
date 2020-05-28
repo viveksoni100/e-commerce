@@ -2,17 +2,17 @@
 
 body {
   /*background: #EEEEF4;*/
-  background: #ffd31d;
+  background: #ffffff;
   /*color:#999;*/
-  color: #f6eedf;
+  color: #000;
   font-family:Roboto;
 }
 
 h1 {
-    font-weight: 300;
+    font-weight: 400;
     font-size: 50pt;
     /*color: #FF1493;*/
-    color: #d63447;
+    color: #FF0000;
 }
 
 p {
